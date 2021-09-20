@@ -19,14 +19,16 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Gurushesh Pawar</strong> and I enjoy
-            creating things that live on the internet. My interest in web
-            development started back in 2014 when I decided to try editing
-            custom Blogger themes — redesigning & modifying blogger themes
-            taught me a lot about HTML & CSS!
+            Hello! My name is <strong>Christopher Mrakovcic</strong> and I am a Software Engineer. 
+            Prior to my transition into Technology I worked in the Beverage Industry 
+            where I picked up skills that have helped me as a Software Engineer such as 
+            attention to detail, and organization. I graduated from Flatiron School in August 2021 
+            with the knowledge to be proficient in Ruby on Rails, JavaScript, as well as React. 
+            I aim to find a position where I can put my skills to use, and continue 
+            improving my skills and knowledge as a Software Engineer.
           </div>
           <div className="AboutBio tagline2">
-            I have become confident using the following technologies.
+            I have become proficient using the following technologies.
           </div>
           <Technologies>
             {stackList.map((stack, index) => (
