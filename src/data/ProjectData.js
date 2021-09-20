@@ -2,37 +2,35 @@
 export const ProjectList = [
   {
     img: "https://gurupawar.github.io/portfolio/assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/gurupawar/spense",
-    demo_url: "https://gurupawar.github.io/spense/",
+    title: "Drunken Doozy",
+    description: "An app that displays a list of beers, a list of favorite beers that can be added and deleted, as well as a randomly generated beer.",
+    tech_stack: "HTML, CSS, JavaScript",
+    github_url: "https://github.com/cmrakovcic/drunken-doozy/tree/master",
+    demo_url: "https://www.youtube.com/watch?v=QwvFYXukfjI",
   },
   {
     img: "https://gurupawar.github.io/portfolio/assets/project_2.png",
-    title: "Fiber",
-    description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/gurupawar/fiber",
-    demo_url: "https://gurupawar.github.io/fiber/",
+    title: "AnimeTalk",
+    description: "A discussion board for posting anime that you have watched, as well as leaving reviews on an anime.",
+    tech_stack: "HTML, CSS, JavaScript",
+    github_url: "https://github.com/cmrakovcic/anime-talk",
+    demo_url: "https://youtu.be/RjTsCXDmoek",
   },
   {
     img: "https://gurupawar.github.io/portfolio/assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/portfolio-react",
-    demo_url: "https://gportfolio.vercel.app/",
+    title: "JobLister",
+    description: "An app where employers can post jobs and employees can find an available job.",
+    tech_stack: "Reactjs, CSS",
+    github_url: "https://github.com/cmrakovcic/job-lister",
+    demo_url: "https://youtu.be/_s17_ib_e0s",
   },
   {
     img: "https://gurupawar.github.io/portfolio/assets/project_3.png",
-    title: "Ecommerce website",
-    description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/gurupawar/ecommerce-react-app",
-    demo_url: "https://ecommerce-react-app.vercel.app/",
+    title: "Game Tracker",
+    description: "A place where game enthusiasts are welcomed and can keep track of their game collection, as well as view other users’ collections.",
+    tech_stack: "Reactjs, CSS",
+    github_url: "https://github.com/cmrakovcic/game-tracker",
+    demo_url: "https://youtu.be/MrwjbeDIM8o",
   },
 ];
 
@@ -50,21 +48,5 @@ export const stackList = [
   {
     img: "https://gurupawar.github.io/portfolio/assets/skill/javascript.svg",
     name: "JavaScript",
-  },
-  {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/bootstrap.svg",
-    name: "Bootstrap",
-  },
-  {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/sass.svg",
-    name: "Scss",
-  },
-  {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/git.svg",
-    name: "Git",
-  },
-  {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/responsive.svg",
-    name: "Responsive",
   },
 ];
