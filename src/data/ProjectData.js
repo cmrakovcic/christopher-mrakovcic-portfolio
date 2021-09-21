@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://gurupawar.github.io/portfolio/assets/project_1.png",
+    img: "https://i.imgur.com/9x4aLX6.png",
     title: "Drunken Doozy",
     description: "An app that displays a list of beers, a list of favorite beers that can be added and deleted, as well as a randomly generated beer.",
     tech_stack: "HTML, CSS, JavaScript",
@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://www.youtube.com/watch?v=QwvFYXukfjI",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/project_2.png",
+    img: "https://i.imgur.com/Aq9RG7I.png",
     title: "AnimeTalk",
     description: "A discussion board for posting anime that you have watched, as well as leaving reviews on an anime.",
     tech_stack: "HTML, CSS, JavaScript",
@@ -17,7 +17,7 @@ export const ProjectList = [
     demo_url: "https://youtu.be/RjTsCXDmoek",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/portfolio.png",
+    img: "https://i.imgur.com/KddPY0F.png",
     title: "JobLister",
     description: "An app where employers can post jobs and employees can find an available job.",
     tech_stack: "Reactjs, CSS",
@@ -25,7 +25,7 @@ export const ProjectList = [
     demo_url: "https://youtu.be/_s17_ib_e0s",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/project_3.png",
+    img: "https://i.imgur.com/eKqvkjg.png",
     title: "Game Tracker",
     description: "A place where game enthusiasts are welcomed and can keep track of their game collection, as well as view other users’ collections.",
     tech_stack: "Reactjs, CSS",
@@ -38,6 +38,10 @@ export const ProjectList = [
 
 export const stackList = [
   {
+    img: "https://icons.iconarchive.com/icons/papirus-team/papirus-mimetypes/512/text-x-ruby-icon.png",
+    name: "Ruby",
+  },
+  {
     img: "https://gurupawar.github.io/portfolio/assets/skill/html5.svg",
     name: "HTML",
   },
@@ -49,4 +53,8 @@ export const stackList = [
     img: "https://gurupawar.github.io/portfolio/assets/skill/javascript.svg",
     name: "JavaScript",
   },
+  {
+    img: "https://gurupawar.github.io/portfolio/assets/skill/react.svg",
+    name: "React",
+  }
 ];
