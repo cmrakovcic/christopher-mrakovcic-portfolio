@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://i.imgur.com/9x4aLX6.png",
+    img: "https://i.imgur.com/384n2rG.png",
     title: "Drunken Doozy",
     description: "An app that displays a list of beers, a list of favorite beers that can be added and deleted, as well as a randomly generated beer.",
     tech_stack: "HTML, CSS, JavaScript",
@@ -9,7 +9,7 @@ export const ProjectList = [
     demo_url: "https://www.youtube.com/watch?v=QwvFYXukfjI",
   },
   {
-    img: "https://i.imgur.com/Aq9RG7I.png",
+    img: "https://i.imgur.com/MJVV2tQ.png",
     title: "AnimeTalk",
     description: "A discussion board for posting anime that you have watched, as well as leaving reviews on an anime.",
     tech_stack: "HTML, CSS, JavaScript",
@@ -17,7 +17,7 @@ export const ProjectList = [
     demo_url: "https://youtu.be/RjTsCXDmoek",
   },
   {
-    img: "https://i.imgur.com/KddPY0F.png",
+    img: "https://i.imgur.com/O3TRNjq.png",
     title: "JobLister",
     description: "An app where employers can post jobs and employees can find an available job.",
     tech_stack: "Reactjs, CSS",
@@ -25,7 +25,7 @@ export const ProjectList = [
     demo_url: "https://youtu.be/_s17_ib_e0s",
   },
   {
-    img: "https://i.imgur.com/eKqvkjg.png",
+    img: "https://i.imgur.com/qgY9tE7.png",
     title: "Game Tracker",
     description: "A place where game enthusiasts are welcomed and can keep track of their game collection, as well as view other users’ collections.",
     tech_stack: "Reactjs, CSS",

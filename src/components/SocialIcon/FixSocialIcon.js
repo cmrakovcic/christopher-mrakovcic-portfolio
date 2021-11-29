@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaMedium } from "react-icons/fa";
 import styled from "styled-components";
 
 const Social = styled.div`
@@ -51,6 +51,15 @@ function FixSocialIcon() {
           >
             <FaGithub />
           </a>
+        <li className="item">
+          <a
+            href="https://chrismrakovcic.medium.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaMedium />
+          </a>
+        </li>
         </li>
       </ul>
     </Social>
