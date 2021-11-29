@@ -6,10 +6,10 @@ const Header = ({ toggle }) => {
     <div className="Container">
       <Nav>
         <Logo to="/">
-          <img
+          {/* <img
             src="https://gurupawar.github.io/portfolio/assets/logo.png"
             alt="logo"
-          />
+          /> */}
         </Logo>
         <NavMenu>
           <NavLink className="menu-item" to="projects" smooth={true}>
@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/cmrakovcic"
+            href="https://docs.google.com/document/d/1Zd_TGYq4DNaa6beRGuB-_Sh8hRhk_uL-vF9aTJBcslA"
             target="_blank"
             rel="noopener noreferrer"
           >

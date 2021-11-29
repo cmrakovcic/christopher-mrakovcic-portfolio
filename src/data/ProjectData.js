@@ -42,19 +42,19 @@ export const stackList = [
     name: "Ruby",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/html5.svg",
+    img: "https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-html-5-icon.png",
     name: "HTML",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/css3.svg",
+    img: "https://icons.iconarchive.com/icons/fatcow/farm-fresh/32/css-3-icon.png",
     name: "CSS",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/javascript.svg",
+    img: "https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png",
     name: "JavaScript",
   },
   {
-    img: "https://gurupawar.github.io/portfolio/assets/skill/react.svg",
+    img: "https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png",
     name: "React",
   }
 ];

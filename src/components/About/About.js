@@ -1,7 +1,6 @@
 import React from "react";
 import { stackList } from "../../data/ProjectData";
 import {
-  Image,
   Technologies,
   Tech,
   TechImg,
@@ -14,10 +13,6 @@ function About() {
       <div className="Container">
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
-          <Image
-            src="https://gurupawar.github.io/portfolio/assets/man-svgrepo-com.svg"
-            alt="man-svgrepo"
-          />
           <div className="AboutBio">
             Hello! My name is <strong>Christopher Mrakovcic</strong> and I am a Software Engineer. 
             Prior to my transition into Technology I worked in the Beverage Industry 

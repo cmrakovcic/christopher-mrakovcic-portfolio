@@ -7,8 +7,6 @@ import {
   HeroLeft,
   HeroRight,
   Image,
-  ScrollDown,
-  ScrollLink,
 } from "./HeroElements";
 function Hero() {
   const [isOpen, setIsOpen] = useState(false);
@@ -28,20 +26,11 @@ function Hero() {
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://gurupawar.github.io/portfolio/assets/man-svgrepo-com.svg"
-              alt="man-svgrepo"
+              src="https://media-exp1.licdn.com/dms/image/C4D03AQGChnfqmBjeQQ/profile-displayphoto-shrink_800_800/0/1600909623981?e=1643846400&v=beta&t=itxmk3jVO7uO0tpwl-Ks4YC06hy1yOjWl0prtLMHcPU"
+              alt="picture"
             />
           </HeroRight>
         </HeroWrapper>
-        <ScrollDown to="projects">
-          <ScrollLink>
-            Scroll down
-            <img
-              src="https://raw.githubusercontent.com/gurupawar/portfolio/main/assets/scroll-down.svg"
-              alt="scroll-down"
-            />
-          </ScrollLink>
-        </ScrollDown>
       </HeroContainer>
     </main>
   );
